@@ -1,0 +1,38 @@
+{
+  "auth": {
+    "signIn": "Sign In",
+    "username": "Username",
+    "password": "Password",
+    "error": {
+      "invalid": "Invalid credentials",
+      "general": "An error occurred during sign in"
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "save": "Save",
+    "cancel": "Cancel",
+    "edit": "Edit",
+    "delete": "Delete",
+    "search": "Search",
+    "filter": "Filter"
+  },
+  "customer": {
+    "phone": "Phone",
+    "gender": "Gender",
+    "name": "Name",
+    "province": "Province",
+    "question": "Question",
+    "result": "Result",
+    "notes": "Notes",
+    "lastContact": "Last Contact",
+    "daysSinceLastContact": "Days Since Last Contact"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome",
+    "totalCustomers": "Total Customers",
+    "recentActivities": "Recent Activities",
+    "uploadCsv": "Upload CSV"
+  }
+}

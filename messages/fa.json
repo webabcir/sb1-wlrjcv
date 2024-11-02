@@ -1,0 +1,38 @@
+{
+  "auth": {
+    "signIn": "ورود",
+    "username": "نام کاربری",
+    "password": "رمز عبور",
+    "error": {
+      "invalid": "نام کاربری یا رمز عبور نامعتبر است",
+      "general": "خطایی در هنگام ورود رخ داد"
+    }
+  },
+  "common": {
+    "loading": "در حال بارگذاری...",
+    "save": "ذخیره",
+    "cancel": "لغو",
+    "edit": "ویرایش",
+    "delete": "حذف",
+    "search": "جستجو",
+    "filter": "فیلتر"
+  },
+  "customer": {
+    "phone": "شماره تلفن",
+    "gender": "جنسیت",
+    "name": "نام",
+    "province": "استان",
+    "question": "سوال",
+    "result": "نتیجه",
+    "notes": "توضیحات",
+    "lastContact": "آخرین تماس",
+    "daysSinceLastContact": "روز گذشته از آخرین تماس"
+  },
+  "dashboard": {
+    "title": "داشبورد",
+    "welcome": "خوش آمدید",
+    "totalCustomers": "تعداد کل مشتریان",
+    "recentActivities": "فعالیت‌های اخیر",
+    "uploadCsv": "آپلود فایل CSV"
+  }
+}
